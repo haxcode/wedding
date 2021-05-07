@@ -6,6 +6,6 @@ module.exports = {
   ],
   description: "Strona ślubna Natalii Zając i Roberta Kubicy",
   author: "Robert Kubica",
-  trackingId: "",
+  trackingId: "G-B8LHNC81M8",
   defaultLang: "pl",
 };
