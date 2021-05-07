@@ -14,7 +14,7 @@ const TimelineItem = ({
   subheader,
   content,
 }) => {
-  const headerPart = header ? <p className="timelineHeader text-uppercase">{header}</p> : null;
+  const headerPart = header ? <p className="timelineHeader">{header}</p> : null;
   const subheaderPart = subheader ? <p className="timelineSubheading text-uppercase">{subheader}</p> : null;
 
   const liClassName = clsx("timeline-item", { "timeline-inverted": invert });

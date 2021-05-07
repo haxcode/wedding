@@ -71,13 +71,7 @@ export const query = graphql`
             imageFileName
           }
           social {
-            facebook
-            github
-            linkedin
-            medium
-            twitter
-            instagram
-            website
+              facebook
           }
           subheader
           teamMember {
@@ -131,7 +125,6 @@ const IndexPage = ({ data, pathContext: { langKey, defaultLang, langTextMap } })
 
   return (
     <>
-      <SEO lang={langKey} title="Caitlin & Justin" keywords={keywords} description={description} />
       <Navbar
         anchors={anchors}
         frontmatter={navBarNode.frontmatter}

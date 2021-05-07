@@ -29,13 +29,13 @@ const Photos = ({ className, frontmatter}) =>{
       </Row>
       <Row>
         <Col>
-          <h3 className="section-subheading text-muted">All photos provided by&nbsp;
+          <h3 className="section-subheading text-muted">Wszystkie zdjęcia zostały wykonane przez &nbsp;
             <a
-              href="https://anaisabelphotography.com/"
+              href="https://www.instagram.com/koszowski_group/"
               target="_blank"
               rel="noreferrer"
               >
-              Ana Isabel Photography
+              KOSZOWSKI GROUP
             </a>
           </h3>
         </Col>

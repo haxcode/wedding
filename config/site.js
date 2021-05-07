@@ -1,11 +1,11 @@
 module.exports = {
-  title: "Caitlin & Justin",
+  title: "Natalia & Robert",
   keywords: [
-    "Caitlin Floyd",
-    "Justin Vazquez"
+    "Natalia Zając",
+    "Robert Kubica"
   ],
-  description: "Wedding website of Caitlin Floyd and Justin Vazquez",
-  author: "Caitlin Floyd",
-  trackingId: "UA-119418003-5",
-  defaultLang: "en",
+  description: "Strona ślubna Natalii Zając i Roberta Kubicy",
+  author: "Robert Kubica",
+  trackingId: "",
+  defaultLang: "pl",
 };

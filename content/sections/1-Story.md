@@ -1,7 +1,7 @@
 ---
-anchor: "Our Story"
-header: "Our Story So Far"
-subheader: "Catch up as we begin the next chapter!"
+anchor: "Nasza historia"
+header: "Nasza historia"
+subheader: "Nadrób zaległości, bo zaczynamy następny rozdział!"
 timeline: [
   {
     imageFileName: "story/1.jpg",
@@ -54,8 +54,8 @@ timeline: [
   {
     imageFileName: "story/9.jpg",
     imageContent: "December\r\n13th\r\n2020",
-    header: "December 13, 2020",
-    subheader: "The big day!"
+    header: "11 września 2021",
+    subheader: "Wielki dzień!"
   }
 ]
 ---

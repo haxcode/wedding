@@ -1,5 +1,5 @@
 ---
-anchor: "Ceremony"
-header: "Ceremony"
-subheader: "December 13, 2020 2pm EST"
+anchor: "Ślub"
+header: "Ślub"
+subheader: "11 września 2021"
 ---

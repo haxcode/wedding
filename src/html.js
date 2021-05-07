@@ -5,7 +5,8 @@ import Loader from './../content/assets/images/loader.gif'
 export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
-      <head>
+    <title>Natalia & Robert</title>
+    <head>
         <meta charSet="utf-8" />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta
@@ -32,10 +33,10 @@ export default function HTML(props) {
                 zIndex: 100,
               }}
            >
-              <img 
-                src={Loader} 
-                alt="loading spinner" 
-                width="150" 
+              <img
+                src={Loader}
+                alt="loading spinner"
+                width="150"
                 height="150"
               />
         </div>

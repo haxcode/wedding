@@ -1,6 +1,6 @@
 ---
-header: "Caitlin & Justin"
-imageFileName: "header-bg.jpg"
+header: "Natalia & Robert"
+imageFileName: "header-bg.png"
 jumpToAnchor: "Photos"
-jumpToAnchorText: "See the Pictures"
+jumpToAnchorText: "Zobacz zdjęcia"
 ---
