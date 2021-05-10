@@ -10,7 +10,7 @@ class Counter extends Component {
         hideYear
         // hideMonth
         titlePosition='bottom'
-        monthTitle="Miesięcy"
+        monthTitle="Miesiące"
         dayTitle="Dni"
         hourTitle="Godzin"
         minuteTitle="Minut"

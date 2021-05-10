@@ -5,54 +5,60 @@ subheader: "Nadrób zaległości, bo zaczynamy następny rozdział!"
 timeline: [
   {
     imageFileName: "story/1.jpg",
-    header: "Sept. 30, 2017",
-    subheader: "We first meet",
-    content: "In Old City, Philadelphia, Caitlin successfully convinced Justin that she knew anything at all about beer, and impressed him by ordering a pumpkin ale. (She secretly hated it as soon as she tried it.) After dinner, we walked to the other end of the city in search of cocktails, talking for hours and getting to know each other along the way."
+    header: "1 września 2004",
+    subheader: "PIERWSZE SPOTKANIE",
+    content: "W starym budynku przychodni przy ul. Kosztowskiej 46 w Mysłowicach, po kompletnym remoncie powstała Nowa Szkoła Podstawowa nr 16 im. Jerzego Chromika. Po uroczystej akademii z okazji rozpoczęcia roku szkolnego wszyscy uczniowie, włącznie z grzeczną drugoklasistką Natalią rozeszli się do swoich klas. Wychowawczyni Gabriela Proksa przywitała swoich uczniów i wtedy do klasy dziarskim krokiem wszedł On - Nowy Uczeń. Przedstawił się jako Robert Kubica i zajął swoje miejsce, ale czy wiedział, że to miejsce nie tylko w szkolnej ławce, ale i w sercu Natalii... Tak oto wyglądał początek tej Wielkiej Miłości. Jedni powiedzą, że to zwykły przypadek inni, że przeznaczenie, ale wszyscy zgodnie stwierdzą, iż od tej pory los Natalii i Roberta złączył się na wieki."
   },
   {
     imageFileName: "story/2.jpg",
-    header: "Late 2017 – Early 2018",
-    subheader: "A budding romance",
-    content: "Together we shared the joys of Philly life (and Justin even convinced Caitlin to spend some time in the ‘burbs).  We began to meet friends and family, and our relationship continued to grow into something we both knew was truly special."
+    header: "1 maja 2005",
+    subheader: "PIERWSZA KOMUNIA ŚWIĘTA",
+    content: "Kolejnym etapem w życiu Natalii i Roberta, było pierwsze przyjęcie Komunii Świętej. Odbyło się to na Mszy Świętej odprawionej przez ówczesnego proboszcza parafii w Kosztowach, księdza Jana Michalskiego."
   },
   {
     imageFileName: "story/3.jpg",
-    header: "April 2018 - July 2019",
-    subheader: "Long-distance",
-    content: "Justin got a promotion and relocated to the Hudson Valley, just outside New York City. For fifteen months, we spent our weekends split between Philly and New York, and came to loathe the Lincoln Tunnel."
+    header: "1 września 2006",
+    subheader: "POCZĄTEK KOŃCA",
+    content: "Podczas rozpoczęcia kolejnego roku szkolnego, czwartoklasiści Natalia i Robert poznali nową wychowawczynię Annę Bok. Był to początek trzyletniej nauki, zabawy i wyjazdów w klasowym gronie. Robert wraz ze swoim przyjacielem Maciejem zazwyczaj siedział w ostatniej ławce. Natalia z Michaliną w ławce tuż przed nimi. Usadzenie to było często źródłem napomnień ze strony nauczycieli. W czerwcu 2006 roku wspólna edukacja Natalii i Roberta dobiegła końca. Z końcem szóstej klasy, zakończył się pewien etap w ich życiu."
   },
   {
     imageFileName: "story/4.jpg",
-    header: "July, 2018",
-    subheader: "Our first trip",
-    content: "We took a roadtrip up the Blue Ridge Parkway, from Chattanooga, TN to Philadelphia, stopping in Asheville, Roanoke, Charlottesville, Richmond, Williamsburg, and Alexandria along the way. We did some hiking, took in the views, and visited some friends and family."
+    header: "1 września 2009",
+    subheader: "RAZEM ALE OSOBNO",
+    content: "Kolejny etap edukacji w Gimnazjum nr 6 w Mysłowicach Natalia i Robert odbyli już w osobnych klasach. Spotykali się na apelach, akademiach, idąc razem ze sztandarem czy też na przerwach, jednak zazwyczaj obracali się w osobnych gronach znajomych. Był to początek ich rozłąki, która trwała przez cały czas liceum i pierwszego roku studiów."
   },
   {
     imageFileName: "story/5.jpg",
-    header: "August, 2018",
-    subheader: "We go international",
-    content: "The first international border we crossed together was Canadian (and we absolutely did not begin the trip with an emergency situation involving Caitlin realizing in Buffalo that she had forgotten her passport in Philly). We've been back to visit Toronto and Niagara Falls since then, and have also made it to England and Japan."
+    header: "Lipiec 2016",
+    subheader: "ŚDM",
+    content: "Światowe Dni Młodzieży sprawiły, że Natalia i Robert ponownie odnaleźli się na ścieżkach swojego życia. Wraz z resztą okolicznej młodzieży udzielali się przy parafii. Zaowocowało to imprezami i grillami u wspólnych znajomych w Imielinie i Kosztowach."
   },
   {
-    imageFileName: "story/6.jpg",
-    header: "July, 2019",
-    subheader: "Reunited",
-    content: "After fifteen months of navigating a long-distance relationship, we were finally reunited when Caitlin relocated to Sleepy Hollow, NY. Without the need to travel every weekend, Justin finally had time to nerd out, brewing beer and playing D&D with friends."
+    imageFileName: "story/6.png",
+    header: "Sierpień 2016",
+    subheader: "WYJAZD Z FUNDUSZU SALETYŃSKIEGO",
+    content: "Tego roku po raz kolejny ksiądz Jerzy Makul zorganizował wyjazd dla wolontariuszy. Zarówno Robert jak i Natalia udzielali się w Funduszu Pomocy Dzieciom i Młodzieży im. Marki Bożej z La Salette i wzięli udział w tym wyjeździe. Wtedy zaczęły się ich rozmowy i spacery."
   },
   {
     imageFileName: "story/7.png",
-    header: "July 18, 2020",
-    subheader: "Our family grows",
-    content: "After relocating to the Maryland suburbs of DC, we adopted the best puppy in the universe, Tanuki, from a shelter in Caitlin's hometown of Waldorf."
+    header: "Wrzesień 2016",
+    subheader: "WIECZORY FILMOWE",
+    content: "Pewnego wrześniowego wieczoru Natalia siedząc sama w domu bardzo się nudziła. Rodzina była nieobecna, znajomi byli zajęci i wtedy pojawił się pomysł. Zadzwonić do Roberta. Jak pomyślała tak zrobiła. Postanowili obejrzeć film. Romantyczna balkonowa sceneria i huśtawka zaowocowały późniejszymi, regularnymi wieczorami filmowymi. Robert tworzył też stronę Rady Osiedla koordynowaną m. in. przez tatę Natalii. Wpłynęło to na kolejne spotkania dwojga, jeszcze wtedy przyjaciół."
   },
     {
-    imageFileName: "story/8.png",
-    header: "October 1, 2020",
-    subheader: "We get engaged",
-    content: "As we picnicked in Washington Square Park, blocks away from where we first met in Philadelphia, Justin popped the question as Caitlin obvliviously cracked jokes before finally realizing what what going on."
+    imageFileName: "story/8.jpg",
+    header: "grudzień 2016 – maj 2020 ",
+    subheader: "WSPÓLNE WYJAZDY",
+    content: "Sylwester w Bukowinie Tatrzańskiej był jednym z pierwszych wspólnych wyjazdów. Kolejnymi były wyjazdy do Wrocławia, Poznania i Gdańska do ich ulubionej sieci hoteli PURO. Nie można pominąć wyjazdu do Wiednia, gdzie Robert zabrał Natalię na przymiarkę pierścionka u Tiffany’ego. Były też wyjazdy w gronie rodzinnym jak narty w Milówce czy wizyta u Ignacio w Hiszpanii."
+  },
+    {
+    imageFileName: "story/9.jpg",
+    header: "12 kwietnia 2020",
+    subheader: "ZARĘCZYNY",
+    content: "W Niedzielę Zmartwychwstania Pańskiego o godzinie 15:00 Natalia wraz Rodzicami i Grześkiem modliła się w salonie koronkę. W pewnym momencie po słowach „dla Jego bolesnej męki..” do salonu wkroczył Robert z bukietem kwiatów. Zaskoczona Natalia niczego się nie spodziewając zaprosiła go i wspólnie dokończyli modlitwę. Pomyślała sobie, że bukiet to dość dziwny prezent świąteczny, ale w sumie umawiali się, iż nie będą sobie robić prezentów ze względu na zamknięte sklepy i obostrzenia. Po zakończonej modlitwie Robert zadał „To” pytanie i wszyscy spędzili wieczór na radosnym świętowaniu."
   },
   {
-    imageFileName: "story/9.jpg",
+    imageFileName: "story/12.jpg",
     imageContent: "December\r\n13th\r\n2020",
     header: "11 września 2021",
     subheader: "Wielki dzień!"
