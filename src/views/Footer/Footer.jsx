@@ -30,11 +30,16 @@ const Footer = ({ frontmatter }) => {
               >
                 Caitlin Floyd
               </a>
+              , 2020 and
+              ©&nbsp;
+              <a
+                href="https://kubica.dev/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Robert Kubica
+              </a>
               , 2021
-            </div>
-            <div className="socials">
-              {github ? <SocialIcons.Github className="footerSocial" userName={github} /> : null}
-              {linkedin ? <SocialIcons.Linkedin className="footerSocial" userName={linkedin} /> : null}
             </div>
           </Col> {/* copyright */}
         </Row>

@@ -6,7 +6,7 @@ import Navbar from "views/Navbar";
 import Top from "views/Top";
 import Footer from "views/Footer";
 import * as Sections from "views/Sections";
-import SEO from "components/SEO";
+// import SEO from "components/SEO";
 import LanguageSelector from "components/LanguageSelector";
 
 import "utils/fixFontAwesome";
