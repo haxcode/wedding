@@ -44,6 +44,7 @@ const Top = ({ frontmatter }) => {
       subheader={subheader}
       extraInfo={extraInfoPart}
     />
+
   );
 };
 

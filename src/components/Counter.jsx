@@ -10,11 +10,11 @@ class Counter extends Component {
         hideYear
         // hideMonth
         titlePosition='bottom'
-        monthTitle="Miesiące"
-        dayTitle="Dni"
-        hourTitle="Godzin"
-        minuteTitle="Minut"
-        secondTitle="Sekund"
+        monthTitle="Months"
+        dayTitle="Days"
+        hourTitle="Hours"
+        minuteTitle="Minutes"
+        secondTitle="Seconds"
         endAt="2021-09-11 12:30:00" // Date/Time
       />
     );

@@ -32,63 +32,42 @@ const Ceremony = ({ className, frontmatter }) => {
     return (
       <span className="finishedCountdown">
         <div className="countdownIntro">
-            The ceremony is now live!
+            Ślub możesz obejrzeć na żywo!
           </div>
           <div className="joinButtonWrapper">
             <div>
               <a
-                href="https://youtu.be/EXOL-3JyXMI"
+                href="https://www.youtube.com/channel/UCOCTLKdKreaa20IzysXC1rg"
                 target="_blank"
                 rel="noreferrer"
               >
                 <Button size="xl" variant="primary" className="text-uppercase main-button join-now">
-                  <p className="buttonTitle">Join Now!</p>
+                  <p className="buttonTitle">Dołącz!</p>
                 </Button> <br/>
               </a>
             </div>
           </div> {/* joinButtonWrapper */}
           <div className="vendors">
             <p>
-              Hosted at
+              Miejsce -
               <a
-                href="https://www.strathmore.org/mansion"
+                href="https://www.youtube.com/channel/UCOCTLKdKreaa20IzysXC1rg"
                 className="countdownLinks"
                 target="_blank"
                 rel="noreferrer"
               >
-                the Mansion at Strathmore
+                Kościół pw. M.B. Częstochowskiej w Kosztowach
               </a>
             </p>
             <p>
-              Officiated by 
-              <a 
-                href="https://elleweds.wixsite.com/elleweds"
-                className="countdownLinks"
-                target="_blank"
-                rel="noreferrer">
-                  Erren Lee
-              </a>
-            </p>
-            <p>
-              Music provided by
+              Fotograf -
               <a
-                href="http://cellobosco.com/"
+                href="https://grupa.koszowski.art.pl/"
                 className="countdownLinks"
                 target="_blank"
                 rel="noreferrer"
               >
-                Carol Anne Bosco
-              </a>
-            </p>
-            <p>
-              Photos by
-              <a
-                href="https://anaisabelphotography.com/"
-                className="countdownLinks"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Ana Isabel Photography
+                KOSZOWSKI Group
               </a>
               !
             </p>
@@ -111,12 +90,12 @@ const Ceremony = ({ className, frontmatter }) => {
             <div className="joinButtonWrapper">
               <div>
                 <a
-                  href="https://www.youtube.com/watch?v=EXOL-3JyXMI&t=3660s"
+                  href="https://www.youtube.com/channel/UCOCTLKdKreaa20IzysXC1rg"
                   target="_blank"
                   rel="noreferrer"
                 >
                   <Button size="xl" variant="primary" className="text-uppercase main-button join-now">
-                    <p className="buttonTitle">Watch the Ceremony</p>
+                    <p className="buttonTitle">Obejrzyj ceremonię</p>
                   </Button> <br/>
                 </a>
               </div>
@@ -128,55 +107,25 @@ const Ceremony = ({ className, frontmatter }) => {
               
               <div className="vendors">
                 <p className="singleVendor">
-                  Hosted at
+                  Miejsce ślubu -
                   <a
-                    href="https://www.strathmore.org/mansion"
+                    href="https://www.youtube.com/channel/UCOCTLKdKreaa20IzysXC1rg"
                     className="countdownLinks"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    the Mansion at Strathmore
+                    Kościół pw. M.B. Częstochowskiej w Kosztowach
                   </a>
                 </p> {/* singleVendor */}
                 <p className="singleVendor">
-                  Officiated by 
-                  <a 
-                    href="https://elleweds.wixsite.com/elleweds"
-                    className="countdownLinks"
-                    target="_blank"
-                    rel="noreferrer">
-                      Elle is for Love
-                  </a>
-                </p> {/* singleVendor */}
-                <p className="singleVendor">
-                  Music provided by
+                  Fotograf -
                   <a
-                    href="http://cellobosco.com/"
+                    href="https://grupa.koszowski.art.pl/"
                     className="countdownLinks"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Carol Anne Bosco
-                  </a>
-                  &nbsp;and
-                  <a
-                    href="https://nickmontopoli.com/"
-                    className="countdownLinks"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Nick Montopoli
-                  </a>
-                </p> {/* singleVendor */}
-                <p className="singleVendor">
-                  Photos by
-                  <a
-                    href="https://anaisabelphotography.com/"
-                    className="countdownLinks"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Ana Isabel Photography
+                    KOSZOWSKI Group
                   </a>
                 </p> {/* singleVendor */}
               </div> {/* vendors */}
@@ -184,7 +133,7 @@ const Ceremony = ({ className, frontmatter }) => {
           </Row> {/* vendorDiv */}
           <Row className="videoDiv">
             <a
-              href="https://www.youtube.com/watch?v=EXOL-3JyXMI&t=3660s"
+              href="https://www.youtube.com/channel/UCOCTLKdKreaa20IzysXC1rg"
               target="_blank"
               rel="noreferrer"
               className="youtubeLink"

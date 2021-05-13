@@ -16,7 +16,7 @@ timeline: [
     content: "Kolejnym etapem w życiu Natalii i Roberta, było pierwsze przyjęcie Komunii Świętej. Odbyło się to na Mszy Świętej odprawionej przez ówczesnego proboszcza parafii w Kosztowach, księdza Jana Michalskiego."
   },
   {
-    imageFileName: "story/3.jpg",
+    imageFileName: "story/3.png",
     header: "1 września 2006",
     subheader: "POCZĄTEK KOŃCA",
     content: "Podczas rozpoczęcia kolejnego roku szkolnego, czwartoklasiści Natalia i Robert poznali nową wychowawczynię Annę Bok. Był to początek trzyletniej nauki, zabawy i wyjazdów w klasowym gronie. Robert wraz ze swoim przyjacielem Maciejem zazwyczaj siedział w ostatniej ławce. Natalia z Michaliną w ławce tuż przed nimi. Usadzenie to było często źródłem napomnień ze strony nauczycieli. W czerwcu 2006 roku wspólna edukacja Natalii i Roberta dobiegła końca. Z końcem szóstej klasy, zakończył się pewien etap w ich życiu."
@@ -40,7 +40,7 @@ timeline: [
     content: "Tego roku po raz kolejny ksiądz Jerzy Makul zorganizował wyjazd dla wolontariuszy. Zarówno Robert jak i Natalia udzielali się w Funduszu Pomocy Dzieciom i Młodzieży im. Marki Bożej z La Salette i wzięli udział w tym wyjeździe. Wtedy zaczęły się ich rozmowy i spacery."
   },
   {
-    imageFileName: "story/7.png",
+    imageFileName: "story/7.jpg",
     header: "Wrzesień 2016",
     subheader: "WIECZORY FILMOWE",
     content: "Pewnego wrześniowego wieczoru Natalia siedząc sama w domu bardzo się nudziła. Rodzina była nieobecna, znajomi byli zajęci i wtedy pojawił się pomysł. Zadzwonić do Roberta. Jak pomyślała tak zrobiła. Postanowili obejrzeć film. Romantyczna balkonowa sceneria i huśtawka zaowocowały późniejszymi, regularnymi wieczorami filmowymi. Robert tworzył też stronę Rady Osiedla koordynowaną m. in. przez tatę Natalii. Wpłynęło to na kolejne spotkania dwojga, jeszcze wtedy przyjaciół."

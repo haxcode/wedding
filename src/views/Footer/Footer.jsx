@@ -37,22 +37,6 @@ const Footer = ({ frontmatter }) => {
               {linkedin ? <SocialIcons.Linkedin className="footerSocial" userName={linkedin} /> : null}
             </div>
           </Col> {/* copyright */}
-          <Col className="anaIsabel credit">
-            <div className="nameAndLink">
-              Photos by&nbsp;
-              <a 
-                href="https://anaisabelphotography.com/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Ana Isabel Photography
-              </a>
-            </div>
-            <div className="socials">
-              {instagram ? <SocialIcons.Instagram className="footerSocial" userName={instagram} /> : null}
-              {facebook ? <SocialIcons.Facebook className="footerSocial" userName={facebook} /> : null}
-            </div>
-          </Col> {/* anaIsabel */}
         </Row>
       </Container>
     </footer>
