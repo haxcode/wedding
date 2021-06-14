@@ -18,7 +18,9 @@ const Top = ({ frontmatter }) => {
 
   const extraInfoPart = (
     // <div className="buttonsWrapper">
+    <div className="counter-wrapper">
     <Counter/>
+    </div>
    // </div>
   );
   //      <a

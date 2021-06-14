@@ -5,16 +5,19 @@ import ImageCard from "components/ImageCard";
 
 class Counter extends Component {
   render() {
+    const size = window.innerWidth > "768" ? "medium" : "small";
     return (
       <FlipCountdown
         hideYear
         // hideMonth
+
         titlePosition='bottom'
-        monthTitle="Months"
-        dayTitle="Days"
-        hourTitle="Hours"
-        minuteTitle="Minutes"
-        secondTitle="Seconds"
+        monthTitle="Miesiące"
+        dayTitle="Dni"
+        hourTitle="Godzin"
+        minuteTitle="Minut"
+        secondTitle="Sekund"
+        size={size}
         endAt="2021-09-11 12:30:00" // Date/Time
       />
     );

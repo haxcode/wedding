@@ -24,6 +24,21 @@
 }
 
 
+
+  @media (max-width: 768px) {
+    .counter-wrapper {
+
+    }
+
+  }
+
+@media (min-width: 768px) {
+  .counter-wrapper {
+
+  }
+
+}
+
 @media (max-width: 768px) {
     .hero-button {
         margin: 5px
