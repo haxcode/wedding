@@ -19,7 +19,7 @@ timeline: [
     imageFileName: "story/3.png",
     header: "1 września 2006",
     subheader: "POCZĄTEK KOŃCA",
-    content: "Podczas rozpoczęcia kolejnego roku szkolnego, czwartoklasiści Natalia i Robert poznali nową wychowawczynię Annę Bok. Był to początek trzyletniej nauki, zabawy i wyjazdów w klasowym gronie. Robert wraz ze swoim przyjacielem Maciejem zazwyczaj siedział w ostatniej ławce. Natalia z Michaliną w ławce tuż przed nimi. Usadzenie to było często źródłem napomnień ze strony nauczycieli. W czerwcu 2006 roku wspólna edukacja Natalii i Roberta dobiegła końca. Z końcem szóstej klasy, zakończył się pewien etap w ich życiu."
+    content: "Podczas rozpoczęcia kolejnego roku szkolnego, czwartoklasiści Natalia i Robert poznali nową wychowawczynię Annę Bok. Był to początek trzyletniej nauki, zabawy i wyjazdów w klasowym gronie. Robert wraz ze swoim przyjacielem Maciejem zazwyczaj siedział w ostatniej ławce. N1atalia z Michaliną w ławce tuż przed nimi. Usadzenie to było często źródłem napomnień ze strony nauczycieli. W czerwcu 2009 roku wspólna edukacja Natalii i Roberta dobiegła końca. Z końcem szóstej klasy, zakończył się pewien etap w ich życiu."
   },
   {
     imageFileName: "story/4.jpg",

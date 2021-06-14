@@ -4,7 +4,7 @@ A website built for remote weddings, in the time of Covid-19. The pre-ceremony p
 ## Demos
 ### Pre-Ceremony Page
 
-![Pre-ceremony Demo](./content/assets/images/demo-pre-ceremony.gif)
+![Pre-ceremony Demo](/content/assets/images/demo-pre-ceremony.gif)
 
 ### Post-Ceremony Page
 ![Post-ceremony Demo](./content/assets/images/demo-post-ceremony.gif)
