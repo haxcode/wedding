@@ -5,7 +5,8 @@ import ImageCard from "components/ImageCard";
 
 class Counter extends Component {
   render() {
-    const size = (window.innerWidth > "1199") ? "medium" : "small";
+    const size =  "small";
+    // const size = (window.innerWidth > "1199") ? "medium" : "small";
     return (
       <FlipCountdown
         hideYear
